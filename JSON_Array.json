@@ -1,0 +1,47 @@
+[
+    { 
+        "firstname": "Bob", "height": 170, "email": "sabi@gmail.com" ,
+        
+        "city": {
+        "通訊地址": "阿拉斯加", 
+        "⼾籍地址": "貧民窟" },
+    
+        "phone": { 
+        "市話": "02-56678787", 
+        "行動電話": "0987-177441" 
+        }, 
+        
+        "cars": [ "BMW", "LV", "toyota"] 
+    },
+
+    { 
+        "firstname": "daivi", "height": 190, "email": "verynice@gmail.com" ,
+        
+        "city": {
+        "通訊地址": "巴塞隆納", 
+        "⼾籍地址": "倫敦" },
+    
+        "phone": { 
+        "市話": "02-0894575757", 
+        "行動電話": "0957-5945757" 
+        }, 
+        
+        "cars": [ "Tesla", "Nissan GT-R", "Audi"] 
+    },
+
+    { 
+        "firstname": "kowala", "height": 150, "email": "sukime@gmail.com" ,
+        
+        "city": {
+        "通訊地址": "雪梨", 
+        "⼾籍地址": "南京" },
+    
+        "phone": { 
+        "市話": "02-453518", 
+        "行動電話": "0988-684521" 
+        }, 
+        
+        "cars": [ "Tesla", "banlu", "Audi"]
+    }
+    
+]
