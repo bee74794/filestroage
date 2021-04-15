@@ -1,0 +1,14 @@
+{ 
+    "firstname": "Kevin", "height": 180, "email": "subarasi@gmail.com" ,
+    
+    "city": {
+    "通訊地址": "紐約", 
+    "⼾籍地址": "洛杉磯" },
+
+    "phone": { 
+    "市話": "02-8989889", 
+    "行動電話": "0988-131478" 
+    }, 
+    
+    "cars": [ "Tesla", "Nissan GT-R", "Audi"] 
+}
